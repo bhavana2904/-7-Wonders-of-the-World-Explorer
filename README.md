@@ -2,6 +2,8 @@
 
 An interactive showcase of the New 7 Wonders of the World with beautiful image slides and descriptions.
 
+![7 Wonders of the World Explorer Screenshot](./screenshot.png)
+
 ## Features
 
 🌍 **Interactive Slideshow**:
